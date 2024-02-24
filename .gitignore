@@ -1,3 +1,7 @@
-\x64
-\.vs
-\Debug
+x64/
+.vs/
+Debug/
+First-Vulkan-Try.sln
+First-Vulkan-Try.vcxproj
+First-Vulkan-Try.vcxproj.filters
+First-Vulkan-Try.vcxproj.user
