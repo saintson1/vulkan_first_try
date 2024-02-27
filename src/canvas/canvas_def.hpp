@@ -3,4 +3,4 @@
 
 #include "./window/window.hpp"
 
-#endif //_CANVAS_DEF_HPP_
+#endif // _CANVAS_DEF_HPP_

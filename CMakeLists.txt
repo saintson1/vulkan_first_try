@@ -23,4 +23,10 @@ add_library(shader STATIC src/render/resource/shader/shader.cpp)
 
 target_link_libraries(${PROJECT_NAME} PRIVATE application)
 target_link_libraries(window PRIVATE ${CMAKE_LIBRARY_PATH}/GLFW/lib-vc2022/glfw3.lib)
-target_link_libraries(application PRIVATE window)
+
+set(QWE 0)
+
+if(WIN32)
+  target_link_libraries(application PRIVATE window)
+endif()
+
