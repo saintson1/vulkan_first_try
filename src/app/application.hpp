@@ -23,5 +23,5 @@ namespace vulkan_ft
   }; // End of 'application' class
 } // End of 'vulkan_ft' namespace
 
-#endif _APPLICATION_HPP_
+#endif // _APPLICATION_HPP_
 // End of 'vlk_application.hpp' file

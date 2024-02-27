@@ -19,5 +19,5 @@ namespace vulkan_ft
   }; //End of 'shader' class
 } // End of 'vulkan_ft' namespace
 
-#endif _SHADER_HPP_
+#endif // _SHADER_HPP_
 //End of 'shader.hpp' file

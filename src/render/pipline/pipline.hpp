@@ -13,5 +13,5 @@ namespace vulkan_ft
   }; //End of 'pipline' class
 } // End of 'vulkan_ft' namespace
 
-#endif _PIPLINE_HPP_
+#endif // _PIPLINE_HPP_
 //End of 'pipline.hpp' file

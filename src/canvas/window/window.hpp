@@ -25,6 +25,6 @@ namespace vulkan_ft
   } // End of 'canvas' namespace
 } //  End of 'vulkan_ft' namespace
 
-#endif _VLK_GLFW_HPP_
-#endif _WINDOW_HPP_
+#endif // _VLK_GLFW_HPP_
+#endif // _WINDOW_HPP_
 // End of 'vlk_window.hpp' file

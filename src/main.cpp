@@ -4,7 +4,10 @@
 
 int main( int argc, char *argv[] )
 {
-  vulkan_ft::application::GetInstancePtr("pupupu", 100, 100);
+  do
+  {
+    vulkan_ft::application::GetInstancePtr("pupupu", 100, 100);
+  } while (getchar() != 'q');
 
   return 0;
 } // End of MAIN function

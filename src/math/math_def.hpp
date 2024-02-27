@@ -3,4 +3,4 @@
 
 #include <glm/glm.hpp>
 
-#endif _MATH_DEF_HPP_
+#endif // _MATH_DEF_HPP_
